@@ -418,6 +418,13 @@
       "password": "1234567",
       "phone": "0123456789",
       "id": 6
+    },
+    {
+      "name": "Mai Thanh Thang",
+      "email": "thanhthang2808@gmail.com",
+      "password": "1234567",
+      "phone": "0869084958",
+      "id": 7
     }
   ],
   "category": [
@@ -685,6 +692,10 @@
     {
       "productList": [],
       "id": "6"
+    },
+    {
+      "productList": [],
+      "id": "7"
     }
   ],
   "orders": [
