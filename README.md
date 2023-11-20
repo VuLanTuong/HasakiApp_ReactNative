@@ -62,7 +62,7 @@ Như vậy là đã thực hiện thành công các bước triển khai ứng d
 ![UI](demo/noti.jpg)
 
 - Quản lí tài khoản gồm có chức năng Log in và Sign up.
-![UI](demo/account.jpg)
+![UI](demo/account.png)
 - Màn hình đăng kí tài khoản, có kiểm tra điều kiện nhập của Name, Email, Password và Phone number.
 ![UI](demo/signup.jpg)
 - Màn hình đăng nhập, khi đăng nhập đúng email và mật khẩu đã đăng kí trong database thì sẽ hiển thị thông báo đăng nhập thành công.
