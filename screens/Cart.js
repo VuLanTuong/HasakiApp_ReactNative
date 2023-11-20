@@ -14,6 +14,7 @@ import IPv4Address from '../ipAddress/IPv4Address';
 
 const Cart = ({ navigation }) => {
   // Sử dụng useSelector để lấy dữ liệu từ Redux store
+  
   const cart = useSelector((state) => state.cart.cart);
 
 

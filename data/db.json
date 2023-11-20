@@ -411,6 +411,13 @@
       "password": "1234567",
       "phone": "0123456789",
       "id": 5
+    },
+    {
+      "name": "Nguyen Viet Bac",
+      "email": "vietbac@gmail.com",
+      "password": "1234567",
+      "phone": "0123456789",
+      "id": 6
     }
   ],
   "category": [
@@ -674,6 +681,10 @@
     {
       "productList": [],
       "id": "5"
+    },
+    {
+      "productList": [],
+      "id": "6"
     }
   ],
   "orders": [
@@ -829,6 +840,69 @@
       ],
       "orderId": "86tYtHO2hN",
       "id": 9
+    },
+    {
+      "userId": "1",
+      "orderOfUser": [
+        {
+          "idProduct": "22",
+          "nameProduct": "Tẩy Da Chết Toàn Thân Cà Phê",
+          "quantity": 1,
+          "price": 300000
+        }
+      ],
+      "orderId": "qVo6JAEplU",
+      "id": 10
+    },
+    {
+      "userId": "6",
+      "orderOfUser": [
+        {
+          "idProduct": "6",
+          "nameProduct": "Dầu Gội Bưởi Cocoon Giảm Rụng & Kích Thích Mọc Tóc 310ml",
+          "quantity": 1,
+          "price": 196000
+        },
+        {
+          "idProduct": "15",
+          "nameProduct": "Khẩu Trang Unicharm 3D Mask Siêu Thoáng Khí Hộp 100 Miếng",
+          "quantity": 3,
+          "price": 289000
+        },
+        {
+          "idProduct": "7",
+          "nameProduct": "Dung Dịch Tẩy Da Chết Paula's Choice 2% BHA 30ml",
+          "quantity": 2,
+          "price": 279000
+        },
+        {
+          "idProduct": "4",
+          "nameProduct": "Son Kem Lì Black Rouge A12 Dashed Brown Nâu Gạch 4.5g",
+          "quantity": 6,
+          "price": 164000
+        }
+      ],
+      "orderId": "x6xKzxqPcI",
+      "id": 11
+    },
+    {
+      "userId": "6",
+      "orderOfUser": [
+        {
+          "idProduct": "16",
+          "nameProduct": "Nước Hoa Nam Moschino Toy Boy EDP 50ml",
+          "quantity": 1,
+          "price": 1075000
+        },
+        {
+          "idProduct": "12",
+          "nameProduct": "Dao Cạo Râu Gillette Vector Hai Lưỡi Kép (1 Cán + 1 Lưỡi)",
+          "quantity": 3,
+          "price": 27000
+        }
+      ],
+      "orderId": "ziykb4OOEz",
+      "id": 12
     }
   ]
 }

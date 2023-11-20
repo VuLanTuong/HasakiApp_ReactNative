@@ -61,4 +61,19 @@ Như vậy là đã thực hiện thành công các bước triển khai ứng d
 - Trang thông báo lấy dữ liệu các thông báo từ link mockAPI.io và render thành FlatList.
 ![UI](demo/noti.jpg)
 
+- Quản lí tài khoản gồm có chức năng Log in và Sign up.
+![UI](demo/account.jpg)
+- Màn hình đăng kí tài khoản, có kiểm tra điều kiện nhập của Name, Email, Password và Phone number.
+![UI](demo/signup.jpg)
+- Màn hình đăng nhập, khi đăng nhập đúng email và mật khẩu đã đăng kí trong database thì sẽ hiển thị thông báo đăng nhập thành công.
+![UI](demo/login.jpg)
+- Khi đăng nhập thành công sẽ tự động load giỏ hàng của người dùng đó đã thêm vào từ lần đăng nhập trước nếu người dùng chưa Tiến hành đặt hàng.
+![UI](demo/loadcart.jpg)
+- Nhấn vào tiến hành đặt hàng sẽ tạo thành một đơn hàng có mã OrderId được tạo uuid tự động và lưu vào database. 
+![UI](demo/order.jpg)
+- Nhấn vào nút package đơn hàng trên thanh header sẽ hiện ra các đơn hàng của người dùng đó.
+![UI](demo/orderlist.jpg)
+- Đăng xuất bằng cách nhấn vào Log out.
+![UI](demo/logout.jpg)
+
 
