@@ -61,8 +61,7 @@ Như vậy là đã thực hiện thành công các bước triển khai ứng d
 - Trang thông báo lấy dữ liệu các thông báo từ link mockAPI.io và render thành FlatList.
 ![UI](demo/noti.jpg)
 
-- Màn hình Quản lí tài khoản gồm có các chức năng như Log in và Sign up và sẽ hiển thi tên người dùng nếu đăng nhập thành công.
-![UI](demo/account.png)
+
 - Màn hình đăng kí tài khoản, có kiểm tra điều kiện nhập của Name, Email, Password và Phone number.
 ![UI](demo/signup.jpg)
 - Màn hình đăng nhập, khi đăng nhập đúng email và mật khẩu đã đăng kí trong database thì sẽ hiển thị thông báo đăng nhập thành công.

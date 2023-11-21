@@ -394,7 +394,7 @@
     {
       "name": "Hy",
       "email": "h@",
-      "password": "1234556678965",
+      "password": "123",
       "phone": "0987654325",
       "id": 3
     },
@@ -663,19 +663,35 @@
     {
       "productList": [
         {
-          "name": "Son Kem Lì Black Rouge A12 Dashed Brown Nâu Gạch 4.5g",
-          "price": 164000,
-          "decription": "Son Kem Lì Black Rouge Air Fit Velvet Version 2 Mood Filter 4.5g là sản phẩm son kem lì đến từ thương hiệu mỹ phẩm Black Rouge, với thiết kế giữ nguyên nét thiết kế đặc trưng của dòng Version 1, chỉ khác về màu nắp son tím pastel. Đầu cọ vát chép với khoảng không giữa đầu cọ giúp kiểm soát lượng son lấy ra, đường di cọ lướt êm trên môi, chất son mướt mịn.",
-          "image": "https://github.com/thanhthang2808/B/blob/main/React%20Native/ProductImg/TrangDiem/SonKemLiBlackRouge.jpg?raw=true",
+          "name": "Sữa Tắm Hatomugi Dưỡng Ẩm, Sáng Da Chiết Xuất Ý Dĩ 800ml",
+          "price": 72000,
+          "decription": "Sữa Tắm Hatomugi Dưỡng Ẩm, Sáng Da Chiết Xuất Ý Dĩ 800ml đến từ thương hiệu HATOMUGI thường xuyên lọt vào top sữa tắm được yêu thích của các tạp chí làm đẹp tại Nhật, với thành phần chiết xuất hạt ý dĩ giàu dưỡng chất, không chỉ giúp làm sạch da mà còn dưỡng ẩm cho da, nuôi dưỡng cho làn da sáng mịn từ bên trong.",
+          "image": "https://github.com/thanhthang2808/B/blob/main/React%20Native/ProductImg/ChamSocCoThe/SuaTamHatomugi.jpg?raw=true",
+          "quantity": 16,
+          "brand": "Hatomugi",
+          "origin": "Nhật Bản",
+          "category": "Chăm Sóc Cơ Thể",
+          "ingredient": "Water, Lauric Acid, Myristic Acid, Potassium Hydroxide, Cocamide MEA, Glycerin, Glycol Distearate, Cocamidopropyl Betaine, Sodium Laureth Sulfate, Cocamide DEA, Sodium Chloride, Potassium Cocoyl Glutamate, Sodium Cocoyl Glutamate, Sodium Lauroyl Methylaminopropionate, Coix Lacryma - Jobi ma - Yuen SEED Extract, Butyrospermum Parkii (SHEA) Butter, Sodium Hyaluronate, Butylene Glycol, Propylene Glycol, Polyquaternium - 7, Alcohol Denat, Tetrasodium EDTA, Phenoxyethanol, Ethylparaben, Fragrance.",
+          "rating": 3.9,
+          "reviews": 113,
+          "comment": 61,
+          "id": "10",
+          "quantityInCart": 1
+        },
+        {
+          "name": "Bao Cao Su Durex Invisible Siêu Mỏng Size 52mm (Hộp 10)",
+          "price": 206000,
+          "decription": "Bao Cao Su Durex Invisible Extra Thin Extra Sensitive là một trong những dòng bao cao su siêu mỏng được yêu thích nhất của thương hiệu Durex hàng đầu thế giới về sản phẩm hỗ trợ tình dục, cho cảm giác chân thực nhất giúp đôi lứa thêm gần gũi và thăng hoa cùng nhau, nhưng vẫn đem lại sự thoải mái nhờ thiết kế rộng rãi với đường kính 52mm, đảm bảo độ bảo vệ và an toàn cao trong suốt cuộc yêu.",
+          "image": "https://github.com/thanhthang2808/B/blob/main/React%20Native/ProductImg/ChamSocCaNhan/BaoCaoSuDurexInvisible.jpg?raw=true",
           "quantity": 69,
-          "brand": "Black Rouge",
-          "origin": "Hàn Quốc",
-          "category": "Trang Điểm",
-          "ingredient": "Dimethicone, dimethicone/vinyldimethicone crosspolymer, purified water, polyglyceryl-2 isostearate, isododecane, polymethylsilsesquioxane, cetylPG/PPG-10/1 die Methicone, polymethyl methacrylate, synthetic fluorophlogopite, silica, cyclopentasiloxane, trimethylsiloxysilicate, 1,2-hexanediol, VP/hexadecene copolymer, sorbitane sesquioleate, PEG-60 Hydrogenated Castor Oil, Disteadimonium Hectorite, Silica Dimethylsilylate, Palmitic Acid, Stearic Acid, Propylene Carbonate, Ethylhexyl Glycerin, Phenoxyethanol, Rosehip Fruit Oil, Shea Butter , Caprylic/Capric Triglyceride, Butylene Glycol, Propylene Glycol, Honey, Hydrogenated Lecithin, Ceramide NP, Red Iron Oxide, Titanium Dioxide, Red No. 202, Yellow No. 5, Yellow Iron Oxide, Black Iron Oxide, Spices",
-          "rating": 3.7,
-          "reviews": 148,
-          "comment": 77,
-          "id": "4",
+          "brand": "Durex",
+          "origin": "Anh",
+          "category": "Chăm Sóc Cá Nhân",
+          "ingredient": "100% mủ cao su thiên nhiên (Latex)",
+          "rating": 5,
+          "reviews": 93784,
+          "comment": 81826,
+          "id": "13",
           "quantityInCart": 1
         }
       ],
@@ -700,220 +716,74 @@
   ],
   "orders": [
     {
-      "userId": "1",
+      "userId": "3",
       "orderOfUser": [
         {
-          "idProduct": "6",
-          "nameProduct": "Dầu Gội Bưởi Cocoon Giảm Rụng & Kích Thích Mọc Tóc 310ml",
-          "quantity": 1,
-          "price": 196000
+          "idProduct": "4",
+          "nameProduct": "Son Kem Lì Black Rouge A12 Dashed Brown Nâu Gạch 4.5g",
+          "quantity": 2,
+          "price": 164000
         },
         {
           "idProduct": "8",
           "nameProduct": "Dầu Gội Selsun Ngừa Gàu Và Ngứa 1% Selenium Sulfide 100ml",
-          "quantity": 1,
+          "quantity": 4,
           "price": 82000
         }
       ],
-      "orderId": "ZTvUQW2P0j",
+      "orderId": "P3u3hdyMTK",
       "id": 1
     },
     {
-      "userId": "1",
+      "userId": "3",
       "orderOfUser": [
         {
           "idProduct": "8",
           "nameProduct": "Dầu Gội Selsun Ngừa Gàu Và Ngứa 1% Selenium Sulfide 100ml",
           "quantity": 1,
           "price": 82000
+        },
+        {
+          "idProduct": "10",
+          "nameProduct": "Sữa Tắm Hatomugi Dưỡng Ẩm, Sáng Da Chiết Xuất Ý Dĩ 800ml",
+          "quantity": 3,
+          "price": 72000
         }
       ],
-      "orderId": "O0POszBrYC",
+      "orderId": "jHi6bl2PMS",
       "id": 2
     },
     {
-      "userId": "1",
+      "userId": "7",
       "orderOfUser": [
-        {
-          "idProduct": "4",
-          "nameProduct": "Son Kem Lì Black Rouge A12 Dashed Brown Nâu Gạch 4.5g",
-          "quantity": 2,
-          "price": 164000
-        },
-        {
-          "idProduct": "21",
-          "nameProduct": "Triệt Lông Diode Laser Nguyên Chân (Bảo Hành 5 Năm)",
-          "quantity": 5,
-          "price": 3000000
-        },
-        {
-          "idProduct": "5",
-          "nameProduct": "Kem Nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml",
-          "quantity": 2,
-          "price": 199000
-        }
-      ],
-      "orderId": "DhSnXjmX53",
-      "id": 3
-    },
-    {
-      "userId": "2",
-      "orderOfUser": [
-        {
-          "idProduct": "5",
-          "nameProduct": "Kem Nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml",
-          "quantity": 5,
-          "price": 199000
-        },
-        {
-          "idProduct": "21",
-          "nameProduct": "Triệt Lông Diode Laser Nguyên Chân (Bảo Hành 5 Năm)",
-          "quantity": 1,
-          "price": 3000000
-        }
-      ],
-      "orderId": "Ltu93aXbEF",
-      "id": 4
-    },
-    {
-      "userId": "2",
-      "orderOfUser": [
-        {
-          "idProduct": "5",
-          "nameProduct": "Kem Nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml",
-          "quantity": 4,
-          "price": 199000
-        },
-        {
-          "idProduct": "4",
-          "nameProduct": "Son Kem Lì Black Rouge A12 Dashed Brown Nâu Gạch 4.5g",
-          "quantity": 1,
-          "price": 164000
-        }
-      ],
-      "orderId": "21Yzsi2dSJ",
-      "id": 5
-    },
-    {
-      "userId": "2",
-      "orderOfUser": [
-        {
-          "idProduct": "4",
-          "nameProduct": "Son Kem Lì Black Rouge A12 Dashed Brown Nâu Gạch 4.5g",
-          "quantity": 1,
-          "price": 164000
-        }
-      ],
-      "orderId": "m3nl9763f2",
-      "id": 6
-    },
-    {
-      "userId": "4",
-      "orderOfUser": [
-        {
-          "idProduct": "25",
-          "nameProduct": "Bút Kẻ Mắt Nước Maybelline Sắc Mảnh BK1 Đen Sắc Sảo 0.4g",
-          "quantity": 1,
-          "price": 164000
-        },
-        {
-          "idProduct": "19",
-          "nameProduct": "Giảm Béo Vùng Bụng Công Nghệ RF",
-          "quantity": 1,
-          "price": 4400000
-        }
-      ],
-      "orderId": "B9NKaz32vn",
-      "id": 7
-    },
-    {
-      "userId": "4",
-      "orderOfUser": [
-        {
-          "idProduct": "19",
-          "nameProduct": "Giảm Béo Vùng Bụng Công Nghệ RF",
-          "quantity": 1,
-          "price": 4400000
-        }
-      ],
-      "orderId": "bdNmEbEcnP",
-      "id": 8
-    },
-    {
-      "userId": "5",
-      "orderOfUser": [
-        {
-          "idProduct": "20",
-          "nameProduct": "Triệt Lông Diode Laser Vùng Bikini (Bảo Hành 5 Năm)",
-          "quantity": 1,
-          "price": 2900000
-        }
-      ],
-      "orderId": "86tYtHO2hN",
-      "id": 9
-    },
-    {
-      "userId": "1",
-      "orderOfUser": [
-        {
-          "idProduct": "22",
-          "nameProduct": "Tẩy Da Chết Toàn Thân Cà Phê",
-          "quantity": 1,
-          "price": 300000
-        }
-      ],
-      "orderId": "qVo6JAEplU",
-      "id": 10
-    },
-    {
-      "userId": "6",
-      "orderOfUser": [
-        {
-          "idProduct": "6",
-          "nameProduct": "Dầu Gội Bưởi Cocoon Giảm Rụng & Kích Thích Mọc Tóc 310ml",
-          "quantity": 1,
-          "price": 196000
-        },
         {
           "idProduct": "15",
           "nameProduct": "Khẩu Trang Unicharm 3D Mask Siêu Thoáng Khí Hộp 100 Miếng",
           "quantity": 3,
           "price": 289000
-        },
-        {
-          "idProduct": "7",
-          "nameProduct": "Dung Dịch Tẩy Da Chết Paula's Choice 2% BHA 30ml",
-          "quantity": 2,
-          "price": 279000
-        },
-        {
-          "idProduct": "4",
-          "nameProduct": "Son Kem Lì Black Rouge A12 Dashed Brown Nâu Gạch 4.5g",
-          "quantity": 6,
-          "price": 164000
         }
       ],
-      "orderId": "x6xKzxqPcI",
-      "id": 11
+      "orderId": "ZRiuYgdzyY",
+      "id": 3
     },
     {
-      "userId": "6",
+      "userId": "undefined",
       "orderOfUser": [
         {
-          "idProduct": "16",
-          "nameProduct": "Nước Hoa Nam Moschino Toy Boy EDP 50ml",
+          "idProduct": "10",
+          "nameProduct": "Sữa Tắm Hatomugi Dưỡng Ẩm, Sáng Da Chiết Xuất Ý Dĩ 800ml",
           "quantity": 1,
-          "price": 1075000
+          "price": 72000
         },
         {
-          "idProduct": "12",
-          "nameProduct": "Dao Cạo Râu Gillette Vector Hai Lưỡi Kép (1 Cán + 1 Lưỡi)",
-          "quantity": 3,
-          "price": 27000
+          "idProduct": "13",
+          "nameProduct": "Bao Cao Su Durex Invisible Siêu Mỏng Size 52mm (Hộp 10)",
+          "quantity": 1,
+          "price": 206000
         }
       ],
-      "orderId": "ziykb4OOEz",
-      "id": 12
+      "orderId": "I0dOeAu7vq",
+      "id": 4
     }
   ]
 }
